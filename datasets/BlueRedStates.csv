@@ -1,0 +1,51 @@
+stateName,stateCode,BlueRed
+Arizona,AZ,B
+California,CA,B
+Colorado,CO,B
+Connecticut,CT,B
+Delaware,DE,B
+Georgia,GA,B
+Hawaii,HI,B
+Illinois,IL,B
+Maine,ME,B
+Maryland,MD,B
+Massachusetts,MA,B
+Michigan,MI,B
+Minnesota,MN,B
+Nevada,NV,B
+New Hampshire,NH,B
+New Jersey,NJ,B
+New Mexico,NM,B
+New York,NY,B
+Oregon,OR,B
+Pennsylvania,PA,B
+Rhode Island,RI,B
+Vermont,VT,B
+Virginia,VA,B
+Washington,WA,B
+Wisconsin,WI,B
+Alabama,AL,R
+Alaska,AK,R
+Arkansas,AR,R
+Florida,FL,R
+Idaho,ID,R
+Indiana,IN,R
+Iowa,IA,R
+Kansas,KS,R
+Kentucky,KY,R
+Louisiana,LA,R
+Mississippi,MS,R
+Missouri,MO,R
+Montana,MT,R
+Nebraska,NE,R
+North Carolina,NC,R
+North Dakota,ND,R
+Ohio,OH,R
+Oklahoma,OK,R
+South Carolina,SC,R
+South Dakota,SD,R
+Tennessee,TN,R
+Texas,TX,R
+Utah,UT,R
+West Virginia,WV,R
+Wyoming,WY,R
